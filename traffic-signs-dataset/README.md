@@ -8,7 +8,3 @@ train/   ← training images + labels
 valid/   ← validation images + labels
 test/    ← test images + labels
 ```
-
-## Usage
-Used in conjunction with [projet_appr](https://github.com/AstA6XD9/projet_appr) for training a YOLO traffic sign detection model.
-Configure the dataset path in `data.yaml` before training.
